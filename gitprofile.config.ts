@@ -85,7 +85,7 @@ const CONFIG = {
   skills: [
     'JavaScript',
     'React.js',
-    'Next.js'.
+    'Next.js',
     'Git',
     'CSS',
     'Tailwind',
