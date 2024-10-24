@@ -58,8 +58,8 @@ const CONFIG = {
   },
   social: {
     linkedin: '',
-    twitter: 'https://x.com/elyon_codes',
-    mastodon: 'arifszn@mastodon.social',
+    twitter: '',
+    mastodon: '',
     researchGate: '',
     facebook: '',
     instagram: '',
