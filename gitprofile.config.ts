@@ -114,7 +114,7 @@ const CONFIG = {
     to: 'August 2023',
     companyLink: 'https://upperlink.ng',
   },
-]
+],
 certifications: [
   {
     name: 'Python Essentials',
@@ -128,7 +128,7 @@ certifications: [
     year: 'February 2024',
     link: 'https://www.freecodecamp.org/certification/Lawani-Elyon-John/responsive-web-design',
   },
-]
+],
   educations: [
     {
       institution: 'Institution Name',
