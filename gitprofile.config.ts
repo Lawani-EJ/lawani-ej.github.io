@@ -65,12 +65,12 @@ const CONFIG = {
     instagram: '',
     reddit: '',
     threads: '',
-    youtube: 'https://www.youtube.com/@elyon-codes', // example: 'pewdiepie'
+    youtube: 'www.youtube.com/@elyon-codes', // example: 'pewdiepie'
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'https://medium.com/@Lawani-Ej',
-    dev: 'https://dev.to/lawaniej',
+    medium: 'medium.com/@Lawani-Ej',
+    dev: 'dev.to/lawaniej',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
@@ -91,28 +91,44 @@ const CONFIG = {
     'Tailwind',
     'Python',
   ],
+  
   experiences: [
-    {
-      company: 'UpperLink LTD',
-      position: 'Frontend-Developer',
-      from: 'Janurary 2023',
-      to: 'July 2023',
-      companyLink: 'https://upperlink.ng',
-    },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
-    },
-  ],
+  {
+    company: 'GOMYCODE',
+    position: 'Trainee, Python Developer',
+    from: 'August 2024',
+    to: 'November 2024',
+    companyLink: 'https://gomycode.com/ng',
+  },
+  {
+    company: 'REWORK ACADEMY',
+    position: 'Trainee, Frontend Developer (React & Next.js)',
+    from: 'January 2024',
+    to: 'July 2024',
+    companyLink: 'https://reworkacademy.co',
+  },
+  { 
+    company: 'UPPERLINK Ltd (IT SIWES Internship)',
+    position: 'Intern, Frontend Developer',
+    from: 'February 2023',
+    to: 'August 2023',
+    companyLink: 'https://upperlink.ng',
+  },
+]
+
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'Python Essentials',
+      body: 'This certificate above verifies that  Lawani Elyon John   successfully completed the course  Python Essentials   on  30th Sep 2024   as taught by    on  GoMyCode . The certificate indicates the entire course was completed as validated by the student. The course duration represents the total cohort duration, involving both presence and online learning of the course based on the date of most recent completion.',
+      year: 'September 2024',
+      link: 'https://diploma.gomycode.app/?id=31726916414714850',
+    },
+
+      {
+      name: 'Responsive Web Design',
+      body: 'In this Responsive Web Design Certification, I learnt the languages that developers use to build webpages: HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design.',
+      year: 'February 2024',
+      link: 'https://www.freecodecamp.org/certification/Lawani-Elyon-John/responsive-web-design',
     },
   ],
   educations: [
