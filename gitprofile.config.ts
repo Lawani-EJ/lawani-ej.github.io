@@ -115,22 +115,20 @@ const CONFIG = {
     companyLink: 'https://upperlink.ng',
   },
 ]
-
-  certifications: [
-    {
-      name: 'Python Essentials',
-      body: 'This certificate above verifies that  Lawani Elyon John   successfully completed the course  Python Essentials   on  30th Sep 2024   as taught by    on  GoMyCode . The certificate indicates the entire course was completed as validated by the student. The course duration represents the total cohort duration, involving both presence and online learning of the course based on the date of most recent completion.',
-      year: 'September 2024',
-      link: 'https://diploma.gomycode.app/?id=31726916414714850',
-    },
-
-      {
-      name: 'Responsive Web Design',
-      body: 'In this Responsive Web Design Certification, I learnt the languages that developers use to build webpages: HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design.',
-      year: 'February 2024',
-      link: 'https://www.freecodecamp.org/certification/Lawani-Elyon-John/responsive-web-design',
-    },
-  ],
+certifications: [
+  {
+    name: 'Python Essentials',
+    body: 'This certificate verifies that Lawani Elyon John successfully completed the Python Essentials course on 21st September 2024 at GOMYCODE. The course included both in-person and online learning, validated by the student’s final completion.',
+    year: 'September 2024',
+    link: 'https://diploma.gomycode.app/?id=31726916414714850',
+  },
+  {
+    name: 'Responsive Web Design',
+    body: 'This certification covers the fundamentals of web development, focusing on HTML for content structure and CSS for styling webpages.',
+    year: 'February 2024',
+    link: 'https://www.freecodecamp.org/certification/Lawani-Elyon-John/responsive-web-design',
+  },
+]
   educations: [
     {
       institution: 'Institution Name',
