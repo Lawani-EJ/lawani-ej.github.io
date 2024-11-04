@@ -145,29 +145,29 @@ certifications: [
   ],
   publications: [
     {
-      title: 'Publication Title',
+      title: 'Building Knowledge of Programming Languages',
       conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      journalName: 'Medium',
+      authors: 'Elyon John',
+      link: 'https://medium.com/@Lawani-Ej/what-is-a-programming-language-91f61325e1c8',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'Even while every programming language has a different syntax, one will discover that when you learn a language and then try to learn another, they all share a lot of concepts. ',
     },
     {
-      title: 'Publication Title',
-      conferenceName: 'Conference Name',
-      journalName: '',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      title: 'Bibliology: Exploring the Integrity and History of the Bible: Insights from My Bibliology Class.',
+      conferenceName: '',
+      journalName: 'Medium',
+      authors: 'Elyon John',
+      link: 'https://medium.com/@Lawani-Ej/bibliology-exploring-the-integrity-and-history-of-the-bible-insights-from-my-bibliology-class-c409ec3fdd98',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'The Bible is not just a historical document, but a message from God to humanity that challenges us to apply its teachings in our lives.',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
-    limit: 2, // How many articles to display. Max is 10.
+    username: 'lawaniej', // to hide blog section, keep it empty
+    limit: 1, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
