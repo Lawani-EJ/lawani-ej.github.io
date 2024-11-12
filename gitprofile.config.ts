@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['Lawani-EJ/GOMYCODE-Python-Projects-', 'Lawani-EJ/LearnlyAppTech', 'Lawani-EJ/Hello-Python', 'Lawani-EJ/Rock-Paper-Scissors'],// List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['Lawani-EJ/GOMYCODE-Python-Projects-', 'Lawani-EJ/LearnlyAppTech', 'Lawani-EJ/Hello-Python', 'Lawani-EJ/Rock-Paper-Scissors', 'Lawani-EJ/Todo-WebApplication'],// List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -65,12 +65,12 @@ const CONFIG = {
     instagram: '',
     reddit: '',
     threads: '',
-    youtube: 'www.youtube.com/@elyon-codes', // example: 'pewdiepie'
+    youtube: 'elyon-codes', // example: 'pewdiepie'
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'medium.com/@Lawani-Ej',
-    dev: 'dev.to/lawaniej',
+    medium: 'Lawani-Ej',
+    dev: 'lawaniej',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
@@ -167,7 +167,7 @@ certifications: [
   blog: {
     source: 'dev', // medium | dev
     username: 'lawaniej', // to hide blog section, keep it empty
-    limit: 1, // How many articles to display. Max is 10.
+    limit: 2, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
