@@ -58,15 +58,16 @@ const CONFIG = {
   },
   social: {
     linkedin: '',
-    twitter: '',
+    twitter: 'elyon_codes',
     mastodon: '',
     researchGate: '',
     facebook: '',
     instagram: '',
     reddit: '',
     threads: '',
+    tiktok: '',
     youtube: 'elyon-codes', // example: 'pewdiepie'
-    udemy: '',
+    udemy: 'lawani-elyon-john',
     dribbble: '',
     behance: '',
     medium: 'Lawani-Ej',
@@ -167,7 +168,7 @@ certifications: [
   blog: {
     source: 'dev', // medium | dev
     username: 'lawaniej', // to hide blog section, keep it empty
-    limit: 5, // How many articles to display. Max is 10.
+    limit: 2, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
